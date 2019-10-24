@@ -28,7 +28,7 @@ void setup() {
   Serial.printf("\n\nUtiliza esta URL para conectar: http://%s/\n", WiFi.localIP().toString().c_str());
 
   Serial.println("Conectando motor");
-  motor1.attach(D7);
+  motor1.attach(D7); // Cambiar por PIN de Servo
 }
 
 void loop() {

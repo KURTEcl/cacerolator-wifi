@@ -3,4 +3,4 @@ Cacerolator con control WIFI para arduinos con módulo ESP8266
 
 # Notas
 
-Esta es una módificacion del códico original compartido por @ConstanzaDiazC en Twitter
+Esta es una módificacion del código original compartido por [@ConstanzaDiazC](https://twitter.com/ConstanzaDiazC/status/1186804438708736000) en Twitter
